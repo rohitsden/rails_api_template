@@ -1,11 +1,7 @@
 ### Introduction
-This ruby project has everything you need to create a dockerized Ruby on Rails 6 project with the following:
+This ruby project has everything you need to create a dockerized Ruby on Rails 6 API project with the following:
 
 - Postgresql
-- Bootstrap 4
-- jQuery and popper.js
-- Devise
-- Default Home Controller
 
 ### Requirements
 
